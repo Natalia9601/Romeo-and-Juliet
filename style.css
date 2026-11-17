@@ -1,0 +1,37 @@
+body {
+  background-color: #f4f4f4;
+  color: #333333;
+  padding: 20px 30px;
+  line-height: 1.5;
+}
+
+#title {
+  color: #3b3b7a;
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+.h2 {
+  color: #6c7a89;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.іі {
+  font-style: italic;
+  font-size: 13px;
+}
+
+.і {
+  font-style: italic;
+  font-size: 13px;
+  font-family: "Playwrite BE VLG", cursive;
+}
